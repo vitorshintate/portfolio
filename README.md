@@ -21,5 +21,5 @@ Bem vindo! Sou estudante de Estatística e Ciências de Dados na USP e aqui voc�
 
 ### 📫 Contato
 
-- [LinkedIn](www.linkedin.com/in/vshintate-dados)  
+- [LinkedIn](https://www.linkedin.com/in/vshintate-dados)  
 - Email: vitorshintate@gmail.com
